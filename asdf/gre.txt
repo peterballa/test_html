@@ -1,2 +1,1 @@
 weboldalról szerkesztem ezt a fájlt, amit aztám szinkronizálok.
-Conflictot akarok okozni.
